@@ -22,6 +22,16 @@ Inclusão de pontos de lazer (praças, parques e áreas públicas) como destinos
 Divulgação com foco em sustentabilidade, saúde e praticidade no transporte urbano.  
 Ênfase em reduzir a poluição e estimular hábitos de vida saudáveis.
 
+
+## Tecnologias Utilizadas
+- Android (Java/Kotlin)
+- OSMDroid para mapas
+- Gradle como gerenciador de build
+
+## Licença
+Este projeto é de caráter educacional, desenvolvido para fins acadêmicos na Etec Profª Luzia Maria Machado.
+
 ## Como Executar
 
-Clone este repositório:
+Clone este repositório.
+
